@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Dingman Lab 5 App 1</string>
+    <string name="btn_back">Go Back</string>
+
+    <string name="name_hardin">Hardin Valley Campus</string>
+    <string name="address_hardin">10915 Hardin Valley Road</string>
+    <string name="city_hardin">Knoxville, TN 37933</string>
+
+    <string name="name_blount">Blount County Campus</string>
+    <string name="address_blount">2731 W. Lamar Alexander Parkway</string>
+    <string name="city_blount">Friendsville, TN 37737</string>
+
+    <string name="name_division">Division Street Campus</string>
+    <string name="address_division">3435 Division Street</string>
+    <string name="city_division">Knoxville, TN 37919</string>
+
+    <string name="name_magnolia">Magnolia Avenue Campus</string>
+    <string name="address_magnolia">1610 E. Magnolia Avenue</string>
+    <string name="city_magnolia">Knoxville, TN 37917</string>
+
+    <string name="name_strawberry">Strawberry Plains Campus</string>
+    <string name="address_strawberry">7201 Strawberry Plains Pike</string>
+    <string name="city_strawberry">Knoxville, TN 37914</string>
+</resources>

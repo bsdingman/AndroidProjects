@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="bryan.dingmanlab6app1.MainActivity">
+
+    <Button
+        android:id="@+id/btn_Calculate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="17dp"
+        android:text="@string/calculate" />
+
+    <Spinner
+        android:id="@+id/cb_Shapes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="44dp"
+        android:entries="@array/list_shapes"/>
+
+    <EditText
+        android:id="@+id/tb_Input1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/cb_Shapes"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:ems="10"
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/tb_Input2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tb_Input1"
+        android:layout_alignStart="@+id/tb_Input1"
+        android:layout_below="@+id/tb_Input1"
+        android:layout_marginTop="43dp"
+        android:ems="10"
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/tb_Input3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tb_Input2"
+        android:layout_alignStart="@+id/tb_Input2"
+        android:layout_below="@+id/tb_Input2"
+        android:layout_marginTop="43dp"
+        android:ems="10"
+        android:inputType="numberDecimal" />
+
+</RelativeLayout>

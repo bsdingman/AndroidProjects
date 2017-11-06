@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dingman Lab1 App1</string>
+    <string name="name">Bryan Dingman</string>
+    <string name="department">Business and Computer Technology Department</string>
+    <string name="address">10915 Hardin Valley Road</string>
+    <string name="city_zip">Knoxville, TN 37933</string>
+</resources>

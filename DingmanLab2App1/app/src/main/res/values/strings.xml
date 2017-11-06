@@ -1,0 +1,15 @@
+<resources>
+  <string name = "app_name">Dingman Lab 2 App 1</string>
+
+  <string name = "label_bill">Bill</string>
+  <string name = "label_tip_percent">Tip (%)</string>
+  <string name = "label_tip">Tip ($)</string>
+  <string name = "label_total">Total</string>
+  <string name = "label_guests">Guests</string>
+
+  <string name = "amount_bill_hint">Enter bill</string>
+  <string name = "amount_tip_percent_hint">Enter tip %</string>
+    <string name = "amount_guests_hint">Enter # of guests</string>
+
+  <string name = "button_calculate">CALCULATE</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Dingman Lab 6 App 1</string>
+    <string name="shape_info">Calculated Shape Information</string>
+    <string name="pick_a_shape">Pick a Shape</string>
+    <string name="radius">Radius</string>
+    <string name="length">Length</string>
+    <string name="width">Width</string>
+    <string name="side_a">Side A</string>
+    <string name="side_b">Side B</string>
+    <string name="side_c">Side C</string>
+    <string name="area">Area: </string>
+    <string name="perimeter">Perimeter: </string>
+    <string name="circumference">Circumference: </string>
+    <string name="s">S: </string>
+    <string name="goBack">Go Back</string>
+    <string name="calculate">Calculate</string>
+    <array name="list_shapes">
+        <item>Circle</item>
+        <item>Rectangle</item>
+        <item>Triangle</item>
+    </array>
+</resources>

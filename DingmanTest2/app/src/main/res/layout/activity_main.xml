@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="bryan.dingmantest2.MainActivity">
+
+    <Button
+        android:id="@+id/btn_Display"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="38dp"
+        android:text="@string/btn_Display" />
+
+    <Button
+        android:id="@+id/btn_Update"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btn_Display"
+        android:layout_alignStart="@+id/btn_Display"
+        android:layout_below="@+id/btn_Display"
+        android:layout_marginTop="17dp"
+        android:text="@string/btn_Update" />
+
+    <Button
+        android:id="@+id/btn_Add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btn_Update"
+        android:layout_alignStart="@+id/btn_Update"
+        android:layout_below="@+id/btn_Update"
+        android:layout_marginTop="17dp"
+        android:text="@string/btn_Add" />
+
+    <Button
+        android:id="@+id/btn_Delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btn_Add"
+        android:layout_alignStart="@+id/btn_Add"
+        android:layout_below="@+id/btn_Add"
+        android:layout_marginTop="18dp"
+        android:text="@string/btn_Delete" />
+</RelativeLayout>

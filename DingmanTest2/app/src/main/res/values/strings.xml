@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Dingman Test 2</string>
+
+    <!-- Titles -->
+    <string name="DisplayTitle">Display Records for Students</string>
+    <string name="UpdateTitle">Updating Records for Students</string>
+    <string name="AddTitle">Add Record into Students</string>
+    <string name="DeleteTitle">Delete Record from Students</string>
+
+    <!-- Buttons -->
+    <string name="btn_Display">Display</string>
+    <string name="btn_Update">Update</string>
+    <string name="btn_Add">Add</string>
+    <string name="btn_Delete">Delete</string>
+    <string name="btn_GoBack">Go Back</string>
+    <string name="btn_Find">Find Student</string>
+    <string name="btn_UpdateRecord">Update Record</string>
+    <string name="btn_AddRecord">Add Record</string>
+    <string name="btn_DeleteRecord">Delete Record</string>
+
+    <!-- Hints -->
+    <string name="hint_Name">Name</string>
+    <string name="hint_Email">Email</string>
+    <string name="hint_Major">Major</string>
+    <string name="hint_GPA">GPA</string>
+</resources>
